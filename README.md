@@ -1,2 +1,4 @@
 # openCV_py_learn
 collection of all example and all test i made in python using openCV
+
+in the directory "try basic function" some file need a foto please corect that error if you find
